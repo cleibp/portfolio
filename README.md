@@ -24,11 +24,18 @@ Modelo de portfólio pessoal
 
 ```sh
 .
+├── .firebaserc
+├── .gitignore
 ├── README.md
+├── firebase.json
+└── public
+    ├── index.html
+    ├── script.js
+    ├── style.css
 ```
 
 ## 👋🏽 DEMO
-[]() 
+[Publicação em Firebase](https://cleibpportfolio.web.app/) 
 
 ## Contatos
 
