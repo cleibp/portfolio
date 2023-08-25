@@ -31,7 +31,7 @@ Modelo de portfólio pessoal
 └── public
     ├── index.html
     ├── script.js
-    ├── style.css
+    └── style.css
 ```
 
 ## 👋🏽 DEMO
